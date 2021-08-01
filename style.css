@@ -728,13 +728,14 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 270px;
+    height: 270px;
 }
 
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
-    width: 270px;
-    height: 270px;
+
 }
 
 .avatar {
