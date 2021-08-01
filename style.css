@@ -17,7 +17,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+.paragraph{
+    font-size: 22px;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
