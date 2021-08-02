@@ -20,6 +20,33 @@ a:hover {
 .paragraph{
     font-size: 22px;
 }
+.background_text{
+    border-radius: 15px;
+    background-color: rgba(52,52,52,0.8);
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 60px;
+}
+.background_end_text{
+    border-radius: 15px;
+    background-color: rgba(52,52,52,0.8);
+    width: 58%;
+    margin: auto;
+    height: 80px;
+}
+.background_end_text h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.7em;
+    margin: 0;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.7;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -743,7 +770,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(52,52,52,0.8);
     padding: 40px 40px 40px 40px;
 }
 
