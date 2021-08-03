@@ -47,6 +47,9 @@ h1{
     justify-content: center;
     line-height: 1.7;
 }
+h4{
+    font-size: 11px;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -784,9 +787,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
+    background-color: #343435;
+}
+#bloc-8{
     background-color: #F3976C;
 }
-
 .tc-white {
     color: #F3976C!important;
 }
